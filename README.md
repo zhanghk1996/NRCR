@@ -2,7 +2,7 @@
 
 
 
-This repo contains the implementation for the paper [Noise-Robust Consistency Regularization for Semi-Supervised Semantic Segmentation]
+This repo contains the implementation for the paper Noise-Robust Consistency Regularization for Semi-Supervised Semantic Segmentation
 
 --------------------
 
