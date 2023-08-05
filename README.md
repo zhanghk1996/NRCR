@@ -1,4 +1,4 @@
-# Noise-Robust Consistency Regularization \\for Semi-Supervised Semantic Segmentation
+# Noise-Robust Consistency Regularization for Semi-Supervised Semantic Segmentation
 
 
 
